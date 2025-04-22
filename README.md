@@ -9,4 +9,6 @@ ISBN(番号)を入力して一致する番号の本の情報を取得し、画�
 0451526538<br>
 (存在しない番号)
 045152653
+<br>
+(アプリケーション画像)
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/e12de62d-2225-4098-bb2f-c617e9c4c7c1" />
